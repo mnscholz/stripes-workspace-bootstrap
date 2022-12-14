@@ -22,3 +22,4 @@ call number field delimiters.
 2. `platform-complete` and `stripes-core` have incompatible current versions, so we have to 
 manually take care of matching versions.
 
+WARNING: The workspace will become quite big (~1,5GB) as it downloads >1500 dependencies!
